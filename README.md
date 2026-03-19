@@ -29,17 +29,16 @@ Aprendo y me adapto rápidamente a herramientas, lenguajes y entornos laborales 
     </tr>
 </table>
 
-<center>
-    <table width="50%"> 
-        <tr style="border: solid #e4e2e251;">
-            <td>
-                <strong><em>Herramientas de Desarrollo</em></strong> <br></br>
-                <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge">
-                <img src="https://img.shields.io/badge/-Vite-9135FF?style=for-the-badge&logo=vite&logoColor=white">
-            </td>
-        </tr>
-    </table>
-</center>
+<table width="50%" align="center"> 
+    <tr style="border: solid #e4e2e251;">
+        <td>
+            <strong><em>Herramientas de Desarrollo</em></strong> <br></br>
+            <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge">
+            <img src="https://img.shields.io/badge/-Vite-9135FF?style=for-the-badge&logo=vite&logoColor=white">
+        </td>
+    </tr>
+</table>
+
 
 ### Proyectos Realizados
 
