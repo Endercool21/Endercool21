@@ -1,5 +1,7 @@
 # ¡Hola! Soy Noé Alejandro.
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Grand+Hotel&size=35&duration=2000&pause=1000&color=4494F7&background=0600FF00&vCenter=true&width=150&lines=Developer;Full-stack;Junior)](https://git.io/typing-svg)
+
 ## Desarrollador Full-Stack Junior | Aprendiz constante
 
 ### Sobre mí
@@ -8,7 +10,7 @@ Aprendo y me adapto rápidamente a herramientas, lenguajes y entornos laborales 
 
 ### Tecnologías y Herramientas
 
-<table width="100%"> 
+<table width="100%">
     <tr style="border: solid #e4e2e251;">
         <td width="50%" style="border: solid #e4e2e251;">
             <strong><em>Back-End & Databases</em></strong> <br></br>
@@ -45,6 +47,12 @@ Aprendo y me adapto rápidamente a herramientas, lenguajes y entornos laborales 
 * **[Sistema Integral Administrativo, Financiero y Operativo de la
 Producción](https://textitl.com)**: Encargado de desarrollar la landing page de la empresa y un software para la centralización de las necesidades de la empresa Textitl.
 
+<img alt='Imagen del landingPage de la empresa.' src='./assets/textitl.png' width="250">
+<img alt='Demostración de algunos de los productos de la empresa.' src='./assets/productos.png' width='250'>
+<img alt='Panel administrativo para los dueños de la empresa.' src='./assets/panel administrativo.png' width='250'>
+
+(El diseño fue hecho según lo deseado por el dueño de la empresa)
+
 ### Enfoque Actual
 
 * Actualización y mantenimiento al software de la empresa Textitl.
@@ -55,3 +63,7 @@ Producción](https://textitl.com)**: Encargado de desarrollar la landing page de
 
 [![Instagram](https://img.shields.io/badge/-Instagram-FF0069?style=social&logo=instagram)](https://www.instagram.com/none_alejandro_) <br/>
 [![Correo](https://img.shields.io/badge/-Correo-EA4335?style=social&logo=gmail)](mailto:noealejandromdl@gmail.com)
+
+##
+
+Desarrolla, crea y aprende sin limitarte por los obstáculos y siempre mirando hacia el futuro
