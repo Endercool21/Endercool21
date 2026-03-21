@@ -47,9 +47,7 @@ Aprendo y me adapto rápidamente a herramientas, lenguajes y entornos laborales 
 * **[Sistema Integral Administrativo, Financiero y Operativo de la
 Producción](https://textitl.com)**: Encargado de desarrollar la landing page de la empresa y un software para la centralización de las necesidades de la empresa Textitl.
 
-<img alt='Imagen del landingPage de la empresa.' src='./assets/textitl.png' width="250">
-<img alt='Demostración de algunos de los productos de la empresa.' src='./assets/productos.png' width='250'>
-<img alt='Panel administrativo para los dueños de la empresa.' src='./assets/panel administrativo.png' width='250'>
+<img alt='Imagen del landingPage de la empresa.' src='./assets/textitl.png' width="250">      <img alt='Demostración de algunos de los productos de la empresa.' src='./assets/productos.png' width='250'>      <img alt='Panel administrativo para los dueños de la empresa.' src='./assets/panel administrativo.png' width='250'>
 
 (El diseño fue hecho según lo deseado por el dueño de la empresa)
 
