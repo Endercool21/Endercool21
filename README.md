@@ -42,28 +42,25 @@ Aprendo y me adapto rápidamente a herramientas, lenguajes y entornos laborales 
 </table>
 
 
-### Proyectos Realizados
+### Experiencia
 
-* **[Sistema Integral Administrativo, Financiero y Operativo de la
-Producción](https://textitl.com)**: Encargado de desarrollar la landing page de la empresa y un software para la centralización de las necesidades de la empresa Textitl.
+* **[Textitl, fábrica de suéteres escolares.](https://textitl.com)**: Encargado de desarrollar la landing page de la empresa y un software para la centralización de las necesidades de la empresa Textitl. Pongo en práctica mis conocimientos dando mantenimiento y actualizando el software y la web de Textitl, empresa donde realicé mis residencias profesionales y con la cual sigo colaborando activamente.
 
 <img alt='Imagen del landingPage de la empresa.' src='./assets/textitl.png' width="250">
 <img alt='Demostración de algunos de los productos de la empresa.' src='./assets/productos.png' width='250'>
 <img alt='Panel administrativo para los dueños de la empresa.' src='./assets/panel administrativo.png' width='250'>
 
-(El diseño fue hecho según lo deseado por el dueño de la empresa)
-
 ### Enfoque Actual
 
-* Actualización y mantenimiento al software de la empresa Textitl.
+* Actualización y mantenimiento del software de la empresa Textitl.
 * Desarrollando mi portfolio.
 * Mejorar y perfeccionar mis habilidades de desarrollo.
 
 ### Contáctame En:
 
 [![Instagram](https://img.shields.io/badge/-Instagram-FF0069?style=social&logo=instagram)](https://www.instagram.com/none_alejandro_) <br/>
-[![Correo](https://img.shields.io/badge/-Correo-EA4335?style=social&logo=gmail)](mailto:noealejandromdl@gmail.com)
-
+[![Correo](https://img.shields.io/badge/-Correo-EA4335?style=social&logo=gmail)](mailto:noealejandromdl@gmail.com)   
+[Linkedin](https://www.linkedin.com/in/noe-alejandro-/)
 ##
 
 Desarrolla, crea y aprende sin limitarte por los obstáculos y siempre mirando hacia el futuro
