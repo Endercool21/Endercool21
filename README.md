@@ -46,9 +46,7 @@ Aprendo y me adapto rápidamente a herramientas, lenguajes y entornos laborales 
 
 * **[Textitl, fábrica de suéteres escolares.](https://textitl.com)**: Encargado de desarrollar la landing page de la empresa y un software para la centralización de las necesidades de la empresa Textitl. Pongo en práctica mis conocimientos dando mantenimiento y actualizando el software y la web de Textitl, empresa donde realicé mis residencias profesionales y con la cual sigo colaborando activamente.
 
-<img alt='Imagen del landingPage de la empresa.' src='./assets/textitl.png' width="250">
-<img alt='Demostración de algunos de los productos de la empresa.' src='./assets/productos.png' width='250'>
-<img alt='Panel administrativo para los dueños de la empresa.' src='./assets/panel administrativo.png' width='250'>
+<img alt='Imagen del landingPage de la empresa.' src='./assets/textitl.png' width="250">      <img alt='Demostración de algunos de los productos de la empresa.' src='./assets/productos.png' width='250'>      <img alt='Panel administrativo para los dueños de la empresa.' src='./assets/panel administrativo.png' width='250'>
 
 ### Enfoque Actual
 
