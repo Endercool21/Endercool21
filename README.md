@@ -4,6 +4,10 @@
 
 ## Desarrollador Full-Stack Junior | Aprendiz constante
 
+* 💻Mira mi portfolio: https://noe-al.vercel.app/.
+
+##
+
 ### Sobre mí
 Desarrollador full-stack junior, profesional en desarrollo con gran gusto y pasión por el desarrollo y la tecnología.
 Aprendo y me adapto rápidamente a herramientas, lenguajes y entornos laborales nuevos.
@@ -32,7 +36,7 @@ Aprendo y me adapto rápidamente a herramientas, lenguajes y entornos laborales 
 </table>
 
 <table width="50%" align="center"> 
-    <tr style="border: solid #e4e2e251;">
+    <tr align="center" style="border: solid #e4e2e251;">
         <td>
             <strong><em>Herramientas de Desarrollo</em></strong> <br></br>
             <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge">
@@ -41,17 +45,10 @@ Aprendo y me adapto rápidamente a herramientas, lenguajes y entornos laborales 
     </tr>
 </table>
 
-
-### Experiencia
-
-* **[Textitl, fábrica de suéteres escolares.](https://textitl.com)**: Encargado de desarrollar la landing page de la empresa y un software para la centralización de las necesidades de la empresa Textitl. Pongo en práctica mis conocimientos dando mantenimiento y actualizando el software y la web de Textitl, empresa donde realicé mis residencias profesionales y con la cual sigo colaborando activamente.
-
-<img alt='Imagen del landingPage de la empresa.' src='./assets/textitl.png' width="250">      <img alt='Demostración de algunos de los productos de la empresa.' src='./assets/productos.png' width='250'>      <img alt='Panel administrativo para los dueños de la empresa.' src='./assets/panel administrativo.png' width='250'>
-
 ### Enfoque Actual
 
 * Actualización y mantenimiento del software de la empresa Textitl.
-* Desarrollando mi portfolio.
+* ~~Desarrollando mi portfolio~~.
 * Mejorar y perfeccionar mis habilidades de desarrollo.
 
 ### Contáctame En:
